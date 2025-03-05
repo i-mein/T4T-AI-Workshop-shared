@@ -7,8 +7,11 @@ Repository for an internal AI Workshop in the context of Twin4Twin EU Project
 1. Regression Task:
 > [Regression with a Mohs Hardness Dataset (Walter Reade and Ashley Chow, 2023, Kaggle)](https://kaggle.com/competitions/playground-series-s3e25)
 
-> See more info on the Minerals dataset [here](https://data.mendeley.com/datasets/jm79zfps6b/1) [1] 
-
+> See more info
+> - [Minerals dataset (mendley)](https://data.mendeley.com/datasets/jm79zfps6b/1) [1]
+> - [Mohs hardness scale (nps.gov)](https://www.nps.gov/articles/mohs-hardness-scale.htm)
+> - [Mohs hardness scale (wiki)](https://en.wikipedia.org/wiki/Mohs_scale) 
+> - [Mohs hardness scale (geology.com)](https://geology.com/minerals/mohs-hardness-scale.shtml)
 
 2. Classification Task:
 > [Binary Classification of Machine Failures (Walter Reade and Ashley Chow, 2023, Kaggle)](https://kaggle.com/competitions/playground-series-s3e17)
