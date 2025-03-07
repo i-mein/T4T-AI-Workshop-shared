@@ -17,6 +17,12 @@ Repository for an internal AI Workshop in the context of Twin4Twin EU Project
 > [Binary Classification of Machine Failures (Walter Reade and Ashley Chow, 2023, Kaggle)](https://kaggle.com/competitions/playground-series-s3e17)
 
 
+3. Forecasting Task:
+> [PJM Hourly Energy Consumption (Rob Mulla, Kaggle)](https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption)
+
+4. Case study:
+> [Industrial Cement Mill Benchmark (Codehub)](https://)
+
 
 # References
 
