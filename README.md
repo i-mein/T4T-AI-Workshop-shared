@@ -5,7 +5,7 @@ Repository for an internal AI Workshop in the context of Twin4Twin EU Project
 # Datasets 
 
 1. Regression Task:
-> [Regression with a Mohs Hardness Dataset (Walter Reade and Ashley Chow, 2023, Kaggle)](https://kaggle.com/competitions/playground-series-s3e25)
+> [Regression with a Mohs Hardness Dataset](https://kaggle.com/competitions/playground-series-s3e25) (Walter Reade and Ashley Chow, 2023, Kaggle)
 
 > See more info
 > - [Minerals dataset (mendley)](https://data.mendeley.com/datasets/jm79zfps6b/1) [1]
@@ -14,14 +14,14 @@ Repository for an internal AI Workshop in the context of Twin4Twin EU Project
 > - [Mohs hardness scale (geology.com)](https://geology.com/minerals/mohs-hardness-scale.shtml)
 
 2. Classification Task:
-> [Binary Classification of Machine Failures (Walter Reade and Ashley Chow, 2023, Kaggle)](https://kaggle.com/competitions/playground-series-s3e17)
+> [Binary Classification of Machine Failures](https://kaggle.com/competitions/playground-series-s3e17) (Walter Reade and Ashley Chow, 2023, Kaggle)
 
 
 3. Forecasting Task:
-> [PJM Hourly Energy Consumption (Rob Mulla, Kaggle)](https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption)
+> [PJM Hourly Energy Consumption](https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption)  (Rob Mulla, Kaggle)
 
 4. Case study:
-> [Industrial Cement Mill Benchmark (Codehub)](https://)
+> [Industrial Cement Mill Benchmark](https://) (Codehub)
 
 
 # References
